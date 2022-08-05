@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Image File Encryption</string>
+    <string name="tab1">Encryption</string>
+    <string name="tab2">Decryption</string>
+    <string name="tab3">App Files</string>
+    <string name="startb">Select file</string>
+    <string name="encfiles">Encrypted Image Files</string>
+    <string name="decfiles">Decrypted Image Files</string>
+    <string name="flabel">File\'s path</string>
+    <string name="pbtn">Process</string>
+    <string name="cbtn">Cancel</string>
+    <string name="fpath">File path</string>
+    <string name="key">Enter a key</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
